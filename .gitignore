@@ -1,0 +1,14 @@
+__pycache__
+.ipynb_checkpoints
+.deps
+.libs
+build
+dist
+MANIFEST
+
+*.pc
+*.pyc
+*.pyo
+
+
+datasets
